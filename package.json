@@ -1,0 +1,25 @@
+{
+  "name": "netcommbackend",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Object-Relational Mapping (ORM): E-Commerce Back End </h1>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillLuciano/netcommbackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillLuciano/netcommbackend/issues"
+  },
+  "homepage": "https://github.com/WillLuciano/netcommbackend#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
